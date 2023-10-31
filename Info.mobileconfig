@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AssetTagInformation</key>
+			<string>EDISONTECH's iPhone</string>
+			<key>PayloadDescription</key>
+			<string>Configures ownership information for a shared device</string>
+			<key>PayloadDisplayName</key>
+			<string>Lock Screen Message</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.shareddeviceconfiguration.ACB0B4E9-B9A8-4E4A-A700-911AC3EF5248</string>
+			<key>PayloadType</key>
+			<string>com.apple.shareddeviceconfiguration</string>
+			<key>PayloadUUID</key>
+			<string>ACB0B4E9-B9A8-4E4A-A700-911AC3EF5248</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Info</string>
+	<key>PayloadIdentifier</key>
+	<string>EDISONTECHs-MacBook-Pro.698D08D0-8AA8-4A53-A2DC-B57544063F3B</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>3A34239A-42B3-4B09-BC96-88FA24A33E4E</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
